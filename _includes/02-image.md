@@ -1,2 +1,2 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-Welcome to my portfolio!
+![Welcome to my portfolio!](https://octodex.github.com/images/yaktocat.png)
+
